@@ -37,10 +37,10 @@ DrawEmoji 是一個能將手繪圖或照片自動轉換成對應 Emoji 的雲端
 
 #### 後端系統架構
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/backend.PNG" alt="系統設定" width="600"/>
+  <img src="images/backend.png" alt="系統設定" width="600"/>
 </div>
 
 #### App系統架構
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/app.PNG" alt="系統設定" width="1200"/>
+  <img src="images/app.png" alt="系統設定" width="1200"/>
 </div>
