@@ -1,0 +1,107 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fafafa;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+h2 {
+  color: #34495e;
+  border-left: 5px solid #3498db;
+  padding-left: 10px;
+  margin-top: 30px;
+}
+
+h3, h4 {
+  color: #2c3e50;
+  margin-bottom: 5px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+input[type="text"],
+input[type="number"] {
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 5px;
+  width: 250px;
+}
+
+button {
+  padding: 6px 14px;
+  background-color: #3498db;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 5px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+canvas {
+  background-color: white;
+  border: 2px solid #333;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  background-color: white;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+th {
+  background-color: #f1f1f1;
+}
+
+.feedback-form {
+  margin-top: 10px;
+}
+
+#responseArea {
+  font-weight: bold;
+  color: #27ae60;
+  margin-top: 10px;
+}
+
+#paginationControls {
+  margin: 10px 0;
+  text-align: center;
+}
+
+#pageInfo {
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 30px 0;
+}
+
+div[style*="background: #f0f0f0"] {
+  border-radius: 6px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+}
